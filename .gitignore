@@ -1,0 +1,18 @@
+# Datos privados: no versionar
+privado/
+private/
+backups/
+exports/
+.env
+.env.*
+secrets.yaml
+**/secrets.yaml
+*.key
+*.pem
+*.log
+*.gpx
+# Entorno local
+.venv/
+__pycache__/
+.DS_Store
+Thumbs.db
